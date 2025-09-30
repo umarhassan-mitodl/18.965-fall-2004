@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "647217d9-a05f-1727-f854-f02a19c07984",
+  "instructors": {
+    "content": [
+      "928c0eef-92ba-717e-a5fc-f7925f416121"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "548bd126-6225-994f-c759-f41bbc27d07d",
+    "website": "18-965-geometry-of-manifolds-fall-2004"
+  },
+  "course_title": "Geometry of Manifolds",
+  "hide_download": true,
+  "course_description": "Geometry of Manifolds analyzes topics such as the differentiable manifolds and vector fields and forms. It also makes an introduction to Lie groups, the de Rham theorem, and Riemannian manifolds.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.965",
+  "course_image_thumbnail": {
+    "content": "f4ae1c61-527a-0321-12eb-381256fd5b18",
+    "website": "18-965-geometry-of-manifolds-fall-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "fde44884-85b5-4a9e-8913-0e0052b2277e",
+  "site_short_id": "18.965-fall-2004",
+  "site_url_path": "courses/18-965-geometry-of-manifolds-fall-2004",
+  "title": "Course Metadata"
+}
