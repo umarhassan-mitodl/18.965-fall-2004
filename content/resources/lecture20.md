@@ -4,8 +4,6 @@ description: Outline and notes for Lecture 20.
 file: /courses/18-965-geometry-of-manifolds-fall-2004/99d9dc3ad6837fa7e851f57d685d681b_lecture20.pdf
 file_size: 68633
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

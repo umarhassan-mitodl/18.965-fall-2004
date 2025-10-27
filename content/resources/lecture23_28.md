@@ -5,8 +5,6 @@ description: This handout contains the definition of a Morse function. There are
 file: /courses/18-965-geometry-of-manifolds-fall-2004/3ed047b0564ee97469e7d2926acc2229_lecture23_28.pdf
 file_size: 13680
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

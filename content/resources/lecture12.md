@@ -4,8 +4,6 @@ description: Outline and notes for Lecture 12.
 file: /courses/18-965-geometry-of-manifolds-fall-2004/32bfddb3cba4e5f5e7390b31f7c82155_lecture12.pdf
 file_size: 79774
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

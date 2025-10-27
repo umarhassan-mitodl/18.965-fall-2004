@@ -4,8 +4,6 @@ description: Homework problems.
 file: /courses/18-965-geometry-of-manifolds-fall-2004/824857425d9f8728dd3f42a2caa1fa2f_math965f04hk6.pdf
 file_size: 78453
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

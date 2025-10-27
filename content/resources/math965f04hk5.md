@@ -4,8 +4,6 @@ description: Exercise theorems on geometry of manifolds, mainly on morse functio
 file: /courses/18-965-geometry-of-manifolds-fall-2004/1a9dac380588c19af5d6c0ee27f1b219_math965f04hk5.pdf
 file_size: 51089
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

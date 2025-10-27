@@ -30,7 +30,6 @@
     "website": "18-965-geometry-of-manifolds-fall-2004"
   },
   "course_title": "Geometry of Manifolds",
-  "hide_download": true,
   "course_description": "Geometry of Manifolds analyzes topics such as the differentiable manifolds and vector fields and forms. It also makes an introduction to Lie groups, the de Rham theorem, and Riemannian manifolds.\n",
   "department_numbers": [
     "18"
@@ -41,7 +40,6 @@
     "content": "f4ae1c61-527a-0321-12eb-381256fd5b18",
     "website": "18-965-geometry-of-manifolds-fall-2004"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"
